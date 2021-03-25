@@ -1,0 +1,27 @@
+{
+  "name": "promisetest",
+  "version": "1.0.0",
+  "description": "Welcome to your Appcelerator Titanium Mobile Project",
+  "scripts": {
+    "install": "npx webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeSharman/promisetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodeSharman/promisetest/issues"
+  },
+  "homepage": "https://github.com/TheCodeSharman/promisetest#readme",
+  "dependencies": {
+    "browser-process": "0.0.1",
+    "fs-extra": "^9.1.0",
+    "mocha": "^8.3.2",
+    "process": "^0.11.10",
+    "util": "^0.12.3",
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
